@@ -373,3 +373,57 @@ java.lang.Exception: File not found: /home/mintaras/my-workspace/ppmtool/src/tes
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:44.975
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:44.975
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2555614f[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=540)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:44.977
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:45.012
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:46.408
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:46.409
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2555614f[org.springframework.tooling.boot.ls:1.24.0.202012131915(id=540)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:46.410
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:49.880
+!MESSAGE Boot LS startup time from start to initialized: 3468ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.062
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.aqfnWZnxisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.065
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.067
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.068
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.068
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.069
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.aqfnWZnx => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.074
+!MESSAGE classpath=92 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.075
+!MESSAGE buffering callback sts4.classpath.aqfnWZnx ppmtool false 92
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.076
+!MESSAGE executing callback sts4.classpath.aqfnWZnx 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-23 11:02:50.128
+!MESSAGE executing callback sts4.classpath.aqfnWZnx SUCCESS [done]

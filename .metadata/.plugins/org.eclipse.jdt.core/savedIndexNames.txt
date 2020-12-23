@@ -87,5 +87,4 @@ INDEX VERSION 1.131+/home/mintaras/Documents/UdemyFullStack/.metadata/.plugins/o
 2940730212.index
 3668474446.index
 1194424510.index
-3257606216.index
 1010484681.index
